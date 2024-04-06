@@ -12,7 +12,7 @@ int main(){
 			if(i%2!=0){ 	// nếu mà i là số lẻ thì continue bỏ qua các giá tị lẻ 
 			continue;
 		}
-			sum+=i; // hcir tính tổng chăn 
+			sum+=i; // chỉ tính tổng chăn 
 		}
 		cout << sum;
 	}
